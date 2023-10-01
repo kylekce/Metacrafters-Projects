@@ -4,7 +4,11 @@ This Solidity program is a simple token program that demonstrates the basic synt
 
 ## Description
 
-This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The contract has two function: one that mints tokens, and one that burns tokens. This program serves as a simple and straightforward introduction to Solidity programming, and can be used as a stepping stone for more complex projects in the future.
+This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The contract has two functions: 
+- mint function
+- burn function
+
+This program serves as a simple and straightforward introduction to Solidity programming, and can be used as a stepping stone for more complex projects in the future.
 
 ## Getting Started
 
@@ -18,8 +22,9 @@ To compile the code, click on the "Solidity Compiler" tab in the left-hand sideb
 
 Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "HelloWorld" contract from the dropdown menu, and then click on the "Deploy" button.
 
-Once the contract is deployed, you can interact with it by calling the mint function to add specific number of tokens to the supply or burn function to burn a specific number of token. Once you filled the address and value in your chosen function, click on the "transact" button to execute the function and you'll see a message from the console.
-## Authors
+Once the contract is deployed, you can interact with it by calling the mint function to add specific number of tokens to the supply or burn function to burn a specific number of tokens. Once you filled the address and value in your chosen function, click on the "transact" button to execute the function and you'll see a message from the console.
 
-Metacrafter Kyle
+## Author
+
+Kyle Español
 [@kylekce](https://github.com/kylekce)
