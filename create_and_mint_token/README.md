@@ -2,7 +2,7 @@
 ## Description
 This Holocoin contract is a Solidity smart contract that demonstrates the creation of an ERC20 token with specific functionalities.
 
-The contract has two functions: 
+The contract has three functions: 
 - mint function
 - burn function
 - transfer function
